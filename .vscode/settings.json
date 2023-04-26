@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Project",
+            "database": "Student_ADMIN_DATABASE",
+            "username": "root",
+            "password": "123456"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "House_Sales",
+            "database": "House_Sales",
+            "username": "root",
+            "password": "123456789"
+        }
+    ]
+}
